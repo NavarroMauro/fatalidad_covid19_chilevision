@@ -5,3 +5,5 @@ https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting
 https://guides.github.com/features/mastering-markdown/
 
 Hola este ya me la chupo
+
+![Image of Yaktocat](./img/original_image_chilevision.jpeg)
