@@ -7,7 +7,7 @@ author:    |
  | **Antonio Canepa, Ph.D.**
  | *[www.onemind-datascience.com](https://www.onemind-datascience.com/)*
  |
- | **Mauricio Cifuentes, Ph.D.**
+ | **Mauricio Cifuentes, Biologo y experto en manejo de datos**
  | *[transluciddata.com](https://transluciddata.com/)*
 
 date: "`r format(Sys.time(), '%d %B, %Y')`"
@@ -26,9 +26,13 @@ htmltools::img(src = knitr::image_uri(f = "INPUT_Files/OMDS/OMDS_Logo_small.png"
                style = 'position:absolute; top:0; right:0; padding:10px;')
 ```
 
+# Analisis de Grafico de la "fatalidad de COVID19 en chile" presentado por Chilevision
+## Introduccion
+La visualizacion de datos para mostrar el comportamiento de algunos fenomenos como la pandemia global del COVID19 que hoy sacude al planeta es una practica recurrente entre aquellos que quieren informar y  con ello entender el como evoluciona el problema.
 
-# Este documento es para ver una wea
-La weá o figura más mulamente dibujada
+Para este efecto el dia xx de xxxx, 20220, el canal nacional chilevision presento un grafico que muestra la evolucion diaria de los muertos por COVID19 (fig. 1) y que puede llevar a conclusiones erroneas por parte de los usuarios. 
+
+ACA DEBERIAMOS DECIR CORTO QUE PASA SI LA GENTE LEE Y RECIBE EL MENSAJE INCORRECTO DE UNA VIZUALIZACION DE DATOS
 
 ### Los datos serían estos:
 
