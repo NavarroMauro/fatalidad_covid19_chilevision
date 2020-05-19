@@ -1,4 +1,5 @@
 .Rproj.user
 .Rhistory
-.RData
 .Ruserdata
+# Do not upload those files
+*.html
